@@ -81,20 +81,10 @@ int main()
         }
 
 
-        // break;
+       
 
     }
 
-    // card1.user("User1");
-    // card1.deposit(1000);
-    // card1.withdraw(58);
-    // card1.show();
-    
-    // SmartCard card2;
-    // card2.user("User2");
-    // card2.deposit(100);
-    // card2.withdraw(-34);
-    // card2.show();
 
     return 0;
 }
